@@ -8,7 +8,7 @@
 
 ## EXE打包文件
 
- ```https://github.com/cexll/jdBuyMask/releases/tag/V3.1```
+https://github.com/cexll/jdBuyMask/releases
 
 
 ## V3.1 (结合v2,v3优点)
